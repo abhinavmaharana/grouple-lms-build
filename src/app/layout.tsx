@@ -5,7 +5,7 @@ import { ClerkProvider } from "@clerk/nextjs"
 import type { Metadata } from "next"
 import { Plus_Jakarta_Sans } from "next/font/google"
 import { Toaster } from "sonner"
-import "./global.css"
+import "./globals.css"
 
 const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"] })
 
